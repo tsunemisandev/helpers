@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "sdras.vue-vscode-snippets",
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "eamodio.gitlens"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.insertFinalNewline": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+  }
+}
